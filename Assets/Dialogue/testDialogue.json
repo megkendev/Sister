@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"->":"main"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"main":[["^wow this is a functioning demo","\n","ev","str","^yeah man","/str","/ev",{"*":".^.c-0","flg":4},{"c-0":["\n","ev","str","^yeah man","/str","/ev",{"->":"chosen"},{"#f":5}]}],{"#f":1}],"chosen":[{"temp=":"response"},"^dang that's pretty sick","\n","end",{"#f":1}],"#f":1}],"listDefs":{}}
